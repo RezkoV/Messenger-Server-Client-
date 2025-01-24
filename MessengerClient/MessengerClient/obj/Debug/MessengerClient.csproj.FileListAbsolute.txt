@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\MessengerClient.pdb
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\UserProfileWindow.g.cs
+C:\Users\User\Desktop\Messange\MessengerClient\MessengerClient\obj\Debug\UserProfileWindow.baml
